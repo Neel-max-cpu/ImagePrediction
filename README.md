@@ -1,9 +1,9 @@
 # Image Prediction using Tenser Flow
 
 # Images of the App :memo:
-![Image 1](https://https://github.com/Neel-max-cpu/ImagePrediction.git/blob/main/public/image/1.png?raw=true)
-![Image 2](https://https://github.com/Neel-max-cpu/ImagePrediction.git/blob/main/public/image/2.png?raw=true)
-![Image 3](https://https://github.com/Neel-max-cpu/ImagePrediction.git/blob/main/public/image/2.png?raw=true)
+![Image 1](https://github.com/Neel-max-cpu/ImagePrediction/blob/main/public/image/1.png?raw=true)
+![Image 2](https://github.com/Neel-max-cpu/ImagePrediction/blob/main/public/image/2.png?raw=true)
+![Image 3](https://github.com/Neel-max-cpu/ImagePrediction/blob/main/public/image/3.png?raw=true)
 
 
 # References
@@ -16,7 +16,7 @@
 ## Overview
 This project is an Ai/Ml - web based project where one can upload and image and will get the data on that image.
 
-## Check the video for the brief of the project without running here  -> [Link]() ⭐
+## Check the video for the brief of the project without running here  -> [Link](https://youtu.be/AnQMyPR-q2Y) ⭐
 
 ## Table of Contents
 - [Features](#features)
